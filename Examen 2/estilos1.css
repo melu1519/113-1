@@ -1,0 +1,86 @@
+body
+{
+  heigh:505px;
+  background-image: url("https://previews.123rf.com/images/smeagorl/smeagorl1504/smeagorl150400404/38496188-ilustraci%C3%B3n-de-textura-perfecta-con-huellas-de-gatos-perros-huellas-de-patas-mascotas-raster.jpg");
+   background-size: 10rem;
+ }
+ h1
+ {
+	 text-align:center;
+	color:#000033;
+	font-style:oblique;
+	font-size:60px;
+	background-color:#DBDFF3;
+	float:center;
+	
+ }
+ h2
+ {
+	 
+	color:#000033;
+	font-style:oblique;
+	font-size:25px;
+ }
+ p
+ {
+	 font-size:20px;
+	 font-style:oblique;
+	 background-color:#D7F0E6;
+	 float:left;
+ }
+ h2
+ {
+	
+	font-style:oblique;
+	font-size:40px;
+	
+	
+	
+ }
+ h3
+ {
+	 color:#000033;
+	font-style:oblique;
+	font-size:50px;
+ }
+  h4
+ {
+	 	color:#000033;
+	font-style:oblique;
+	font-size:50px;
+ }
+ table
+ {
+	 font-style:oblique;
+	font-size:20px;
+	color:black;
+	background-color:#F0F0F1;
+ }
+ h5
+ {
+	  font-style:oblique;
+	font-size:20px;
+	color:black;
+ }
+ h6
+ {
+	 
+	  font-style:oblique;
+	font-size:25px;
+	color:black;
+ }
+ h7
+ {
+	  
+	  font-style:oblique;
+	font-size:25px;
+	color:black;
+ }
+ *
+ {
+	 font-family:serif;
+	 font-weight:bold;
+	 
+ }
+
+ 
